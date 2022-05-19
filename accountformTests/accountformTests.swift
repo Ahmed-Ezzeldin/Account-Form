@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import accountform
+@testable import Account_Form
 
 class accountformTests: XCTestCase {
 

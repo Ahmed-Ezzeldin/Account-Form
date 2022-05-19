@@ -34,7 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8013D45F28363C74004F4684 /* accountform.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = accountform.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8013D45F28363C74004F4684 /* Account Form.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Account Form.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8013D46228363C74004F4684 /* accountformApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = accountformApp.swift; sourceTree = "<group>"; };
 		8013D46428363C74004F4684 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8013D46628363C75004F4684 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -84,7 +84,7 @@
 		8013D46028363C74004F4684 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8013D45F28363C74004F4684 /* accountform.app */,
+				8013D45F28363C74004F4684 /* Account Form.app */,
 				8013D46F28363C76004F4684 /* accountformTests.xctest */,
 				8013D47928363C76004F4684 /* accountformUITests.xctest */,
 			);
@@ -130,9 +130,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8013D45E28363C74004F4684 /* accountform */ = {
+		8013D45E28363C74004F4684 /* Account Form */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8013D48328363C76004F4684 /* Build configuration list for PBXNativeTarget "accountform" */;
+			buildConfigurationList = 8013D48328363C76004F4684 /* Build configuration list for PBXNativeTarget "Account Form" */;
 			buildPhases = (
 				8013D45B28363C74004F4684 /* Sources */,
 				8013D45C28363C74004F4684 /* Frameworks */,
@@ -142,9 +142,9 @@
 			);
 			dependencies = (
 			);
-			name = accountform;
+			name = "Account Form";
 			productName = accountform;
-			productReference = 8013D45F28363C74004F4684 /* accountform.app */;
+			productReference = 8013D45F28363C74004F4684 /* Account Form.app */;
 			productType = "com.apple.product-type.application";
 		};
 		8013D46E28363C76004F4684 /* accountformTests */ = {
@@ -219,7 +219,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8013D45E28363C74004F4684 /* accountform */,
+				8013D45E28363C74004F4684 /* Account Form */,
 				8013D46E28363C76004F4684 /* accountformTests */,
 				8013D47828363C76004F4684 /* accountformUITests */,
 			);
@@ -284,12 +284,12 @@
 /* Begin PBXTargetDependency section */
 		8013D47128363C76004F4684 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8013D45E28363C74004F4684 /* accountform */;
+			target = 8013D45E28363C74004F4684 /* Account Form */;
 			targetProxy = 8013D47028363C76004F4684 /* PBXContainerItemProxy */;
 		};
 		8013D47B28363C76004F4684 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8013D45E28363C74004F4684 /* accountform */;
+			target = 8013D45E28363C74004F4684 /* Account Form */;
 			targetProxy = 8013D47A28363C76004F4684 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -432,7 +432,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = cloudsecret.accountform;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Account Form";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -460,7 +460,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = cloudsecret.accountform;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Account Form";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -487,7 +487,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/accountform.app/accountform";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Account Form.app/Account Form";
 			};
 			name = Debug;
 		};
@@ -511,7 +511,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/accountform.app/accountform";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Account Form.app/Account Form";
 			};
 			name = Release;
 		};
@@ -571,7 +571,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8013D48328363C76004F4684 /* Build configuration list for PBXNativeTarget "accountform" */ = {
+		8013D48328363C76004F4684 /* Build configuration list for PBXNativeTarget "Account Form" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8013D48428363C76004F4684 /* Debug */,
